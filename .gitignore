@@ -1,0 +1,9 @@
+data_pipeline/terraform/credentials.json
+data_pipeline/terraform/terraform.tfvars
+data_pipeline/terraform/terraform.tfstate
+data_pipeline/terraform/.terraform.lock.hcl
+data_pipeline/terraform/.terraform
+transaction_cleaning_function_source/*
+autoship_clean_function_source/.DS_Store
+frontend/*
+inventory_control_cleaning_function_source/*
